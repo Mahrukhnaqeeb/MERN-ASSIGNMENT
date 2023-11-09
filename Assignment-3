@@ -1,0 +1,39 @@
+Ques 01: What is URL?
+Ans: URL stands for Uniform Resource Locator. It is a standardized address used to access resources on the internet. A URL is a combination of characters that provides a reference to the location of a resource, such as a web page, a file, an image, or any other type of data that can be accessed via the web.
+
+Ques 02: Difference between http and https.
+Ans: HTTP: It operates over an unsecured connection and transmits data in plain text. This means that when you access a website using HTTP, the data transferred between your web browser and the web server is not encrypted. As a result, it is vulnerable to interception and eavesdropping. Any information, such as login credentials, personal data, or payment details, can be intercepted and read by malicious actors if they gain access to the data transmission.
+
+HTTPS: HTTPS, on the other hand, is designed to provide a secure and encrypted connection. It uses cryptographic protocols like SSL (Secure Sockets Layer) or TLS (Transport Layer Security) to encrypt the data being transmitted between your browser and the web server. This encryption ensures that the data remains confidential and secure during transmission, making it significantly more resistant to eavesdropping and interception. As a result, the information exchanged between your browser and the server is protected and remains private.
+
+Ques 03: What is a DOM?
+Ans: DOM stands for Document Object Model. It is a programming interface for web documents and represents the page so that programs can change the document structure, content, and style. The DOM represents the web page as a tree of objects, where each part of the web page, such as elements (e.g., headings, paragraphs, images), attributes, and text content, is represented as a separate object in the tree.
+
+QUES 04: what are meta tags in HTML?
+ANS: Meta tags in HTML (Hypertext Markup Language) are special elements used to provide metadata about an HTML document. Metadata is data about data, and meta tags convey information to web browsers, search engines, and other systems that process web pages. Meta tags are typically placed within the <head> section of an HTML document and do not display content directly on the web page. Instead, they serve various purposes related to SEO (Search Engine Optimization), page description, character encoding, and more.
+
+Here are some common meta tags and their purposes:
+
+1 :Title: The <title> tag defines the title of the web page, which is displayed in the browser's title bar or tab. It's a crucial element for SEO and helps describe the content of the page.
+2: Charset: The <meta charset="UTF-8"> tag specifies the character encoding for the document, ensuring that the text is displayed correctly with the appropriate characters.
+ 
+Ques 05: What is W3C?
+Ans:W3C stands for the World Wide Web Consortium. It is an international community and standards organization that develops and maintains standards and guidelines for the World Wide Web. W3C was founded by Tim Berners-Lee, the inventor of the World Wide Web, and it plays a crucial role in ensuring the web's interoperability and long-term growth.
+
+Ques 06:Different DOCTYPES of previous html versions?
+Ans: HTML 5: HTML5 introduced a simplified and standardized DOCTYPE declaration that is backward-compatible with older versions.
+SYNTAX:
+<!DOCTYPE html>
+XHTML 1.0 Strict:
+Syntax:
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+HTML 4.01 Strict:
+Syntax:
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+HTML 4.01 Transitional:
+Syntax:
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+HTML 4.01 Frameset:
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Frameset//EN" "http://www.w3.org/TR/html4/frameset.dtd">
+XHTML 1.1:
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">.
