@@ -1,0 +1,8 @@
+JavaScript rendering engines:
+
+1. V8: Developed by Google for the Chrome browser, V8 is a high-performance, open-source engine known for its speed and efficiency.
+2. SpiderMonkey: Created by Mozilla, SpiderMonkey is the original JavaScript engine for the Firefox browser. It's known for its early contributions to JavaScript.
+3. Chakra (ChakraCore): Developed by Microsoft, Chakra was the engine used in the Edge browser. ChakraCore is the open-source version of this engine.
+4. JavaScriptCore: This is the engine that powers the Safari browser. It's developed by Apple and known for its performance and compliance with web standards.
+5. Rhino:An older JavaScript engine primarily used in Java applications, it's known for its compatibility with older systems.
+6. JerryScript: Primarily designed for Internet of Things (IoT) devices and constrained environments, JerryScript is a lightweight, open-source engine.
