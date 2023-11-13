@@ -1,0 +1,19 @@
+Ques01: What is the difference between Framework and API?
+ Ans: A framework is a more comprehensive and broader concept. It is a pre-built structure that provides a foundation for developing software applications. A framework includes not only rules for interaction but also predefined structures, design patterns, and reusable code components. It dictates the overall architecture of an application and offers a set of tools and libraries to facilitate the development process. While,
+An API is primarily concerned with defining interfaces for communication between different software components, a framework goes beyond that, providing a more extensive set of tools and guidelines for building entire applications. APIs are specific to communication protocols, while frameworks encompass a larger set of resources and conventions for software development.
+Ques 02: What is the common in below:
+Bootstrap
+Foundation
+Materialize
+Skeleton
+Milligram
+Ulkit
+Material design lite
+Susy?
+Ans:The commonality among Bootstrap, Foundation, Materialize, Skeleton, Milligram, UIkit, Material Design Lite, and Susy is that they are all frontend frameworks or libraries used in web development to enhance the design, layout, and responsiveness of websites. Each of these tools provides a set of pre-designed components, styles, and utilities that developers can use to create consistent and visually appealing user interfaces.
+
+While they may have differences in terms of design principles, customization options, and features, they all share the common goal of simplifying the process of building modern and responsive web applications. 
+
+
+
+
